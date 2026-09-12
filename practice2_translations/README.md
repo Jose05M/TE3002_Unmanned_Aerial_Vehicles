@@ -14,7 +14,7 @@ Basic Tello movements (forward/back, lateral, altitude, rotation) combined into 
 
 | File | Description |
 |---|---|
-| [`practica2.py`](practica2.py) | Interactive menu that runs one of four trajectories. |
+| [`practice2.py`](practice2.py) | Interactive menu that runs one of four trajectories. |
 
 ### Trajectory options
 
@@ -34,7 +34,7 @@ pip install djitellopy
 ## How to run
 
 ```bash
-python practica2.py
+python practice2.py
 ```
 
 1. Connect to the Tello's Wi-Fi network.
