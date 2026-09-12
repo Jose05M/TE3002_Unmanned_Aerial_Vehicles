@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Videos (raw footage / evidence, not source code)
+videos/
+*.mp4
+
+# OS
+.DS_Store
