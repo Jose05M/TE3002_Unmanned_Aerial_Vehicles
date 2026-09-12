@@ -15,7 +15,7 @@ First hands-on contact with the DJI Tello: verify the connection to the drone an
 | File | Description |
 |---|---|
 | [`check_connection.py`](check_connection.py) | Connects to the Tello and prints battery level and SDK version. Acts as a connectivity smoke test before flying. |
-| [`practica1.py`](practica1.py) | Takes off, hovers for 5 seconds, and lands. |
+| [`practice1.py`](practice1.py) | Takes off, hovers for 5 seconds, and lands. |
 
 ## Requirements
 
@@ -32,7 +32,7 @@ pip install djitellopy
    ```
 3. Run the test flight (clear at least 2x2 m of open space around the drone):
    ```bash
-   python practica1.py
+   python practice1.py
    ```
 
 ## Notes
