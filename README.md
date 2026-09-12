@@ -3,7 +3,7 @@
 
 # DJI Tello UAV Practices
 
-Practical exercises and final project for the UAV module, built around a real **DJI Tello** quadrotor controlled in Python with djitellopy and OpenCV for the computer-vision parts. The module covers quadrotor modeling and control theory — description, dynamics, kinematics, state-feedback control, Kalman filtering, nonlinear control, and visual servoing — applied here hands-on through four practices and a final project.
+Practical exercises and final project for the UAV module, built around a real **DJI Tello** quadrotor controlled in Python with djitellopy and OpenCV for the computer-vision parts.
 
 ## Structure
 
